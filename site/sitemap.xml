@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>https://rbijo.github.io/ace.app/</loc>
+      </url>
+      <url>
+        <loc>https://rbijo.github.io/ace.app/getting-started/</loc>
+      </url>
+      <url>
+        <loc>https://rbijo.github.io/ace.app/architecture/</loc>
+      </url>
+      <url>
+        <loc>https://rbijo.github.io/ace.app/development/</loc>
+      </url>
+      <url>
+        <loc>https://rbijo.github.io/ace.app/backend/</loc>
+      </url>
+      <url>
+        <loc>https://rbijo.github.io/ace.app/frontend/</loc>
+      </url>
+      <url>
+        <loc>https://rbijo.github.io/ace.app/database/</loc>
+      </url>
+      <url>
+        <loc>https://rbijo.github.io/ace.app/ai/</loc>
+      </url>
+      <url>
+        <loc>https://rbijo.github.io/ace.app/deployment/</loc>
+      </url>
+      <url>
+        <loc>https://rbijo.github.io/ace.app/contributing/</loc>
+      </url>
+</urlset>
